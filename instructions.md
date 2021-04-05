@@ -24,7 +24,8 @@ Data for upload into Civis - you can refer to the Upload Template. The data need
 - Who was surveyed in the phone calls
 - Who said they supported our candidate (a “1” on support_smith)
 - Who ended up voting 
-- A short report in a spreadsheet format. Your manager needs the numbers from this data, so you also need to create a short report. Your manager likes clean and easy to read reports, so keep formatting and style in mind. In a spreadsheet, include counts for:
+
+A short report in a spreadsheet format. Your manager needs the numbers from this data, so you also need to create a short report. Your manager likes clean and easy to read reports, so keep formatting and style in mind. In a spreadsheet, include counts for:
 - Number of individuals who were sent a text message
 - Support rate among those we surveyed
 - Turnout rate among the universe
